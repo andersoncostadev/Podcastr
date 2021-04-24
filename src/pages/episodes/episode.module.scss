@@ -35,7 +35,7 @@
         transform: translate(50%, -50%);
       }
 
-      &:houver {
+      &:hover {
         filter: brightness(0.9);
       }
     }
@@ -80,7 +80,7 @@
     color: var(--gray-800);
 
     p {
-      margin-top: 1.5rem 0;
+      margin: 1.5rem 0;
     }
   }
   
